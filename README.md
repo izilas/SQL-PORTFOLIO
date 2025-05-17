@@ -1,2 +1,2 @@
 # SQL-PORTFOLIO
-A collectio of all my projects with SQL
+A collection of all my projects with SQL
